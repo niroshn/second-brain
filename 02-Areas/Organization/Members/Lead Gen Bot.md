@@ -22,6 +22,7 @@ Generates leads, partnership opportunities, and affiliate prospects for the outr
 
 ## Contact or agent reference
 - TBD
+- State: [[Lead Gen Bot State]]
 
 ## Working instructions
 - Research and build lists of leads, potential partners, and affiliate prospects.

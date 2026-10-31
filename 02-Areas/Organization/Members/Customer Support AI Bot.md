@@ -22,9 +22,11 @@ Sole member of Customer Support Operations. Handles customer emails arriving at 
 
 ## Contact or agent reference
 - Inbox: hello@figuro.email
+- State: [[Customer Support AI Bot State]]
 
 ## Working instructions
 - Monitor hello@figuro.email for incoming customer emails; triage and reply.
+- Use the [[Order Tracker]] to answer order status questions without logging into Shopify; verify the requester's email matches the order email first.
 - Follow the [[Customer Email Support SOP]] for all customer email handling.
 - Escalate issues that cannot be resolved by email to the team lead; team lead escalates to Chief.
 - Customer sends follow the recorded-authorization rule; no payments, refunds, or commitments without approval.

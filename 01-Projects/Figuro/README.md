@@ -16,6 +16,8 @@ TBD
 Create notes in `Tasks/` from [[99-Templates/Task Template]].
 
 ## Knowledge & Resources
+- [[Repositories]] — GitHub repo list per project
+- [[Order Tracker]] — live order status for support replies (paid/unfulfilled, flags, problem orders)
 - [[Figuro Shopify Theme - Knowledge Transfer]] — theme structure, custom sections/snippets, templates, metafields, translation tooling (getfiguro.com)
 - [[FacFox]] — primary print supplier (ordering sheet, print folder, pricing, payment)
 - [[Print Shop (Supplier 2)]] — secondary print supplier (ordering sheet, print folder, pricing)

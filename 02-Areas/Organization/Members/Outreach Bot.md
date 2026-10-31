@@ -22,6 +22,7 @@ Drafts and sends outreach emails to leads, potential partners, and affiliates ge
 
 ## Contact or agent reference
 - TBD
+- State: [[Outreach Bot State]]
 
 ## Working instructions
 - Draft and send outreach emails based on the Lead Gen Bot's qualified lead lists.

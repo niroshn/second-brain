@@ -22,6 +22,7 @@ Daily analysis and audit of getfiguro.com. Runs the daily site audit task and re
 
 ## Contact or agent reference
 - Site: https://getfiguro.com
+- State: [[SEO AEO Architect State]]
 
 ## Working instructions
 - Run the daily site audit and analysis of getfiguro.com (daily task).
