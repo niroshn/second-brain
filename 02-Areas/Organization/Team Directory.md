@@ -13,7 +13,7 @@ type: directory
 ## Engineering
 - [[Teams/Figuro Development]]
 - [[Teams/NoCensor Development]]
-- [[Teams/3D Modeling]]
+- [[Teams/Figuro 3D Modeling]]
 - [[Teams/Shared Development]]
 
 ## Customer Support
@@ -21,5 +21,8 @@ type: directory
 
 ## Personal Assistant
 - [[Teams/Executive Assistant]]
+
+## Cross-functional
+- [[Teams/Active8]]
 
 Hierarchy: Chief → Department → Team Lead → Team Members (Human or Bot).

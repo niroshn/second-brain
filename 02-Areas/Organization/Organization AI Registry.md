@@ -105,8 +105,8 @@ departments:
         mission: Develop all image/video generation products
         projects: [NoCensor AI]
         capabilities: [frontend, backend, ai_inference, video_generation, infrastructure, qa]
-      - id: team-3d-modeling
-        name: 3D Modeling
+      - id: team-figuro-3d-modeling
+        name: Figuro 3D Modeling
         lead_id: TBD
         mission: Produce and quality-check printable 3D assets
         projects: [Figuro]
@@ -208,10 +208,10 @@ related_notes: []
 | Figuro Facebook ad campaign | Figuro Marketing | SEO/AEO if landing-page changes |
 | Figuro Shopify bug | Figuro Development | QA member in development team |
 | NoCensor AI video feature | NoCensor Development | NoCensor AI Marketing for launch |
-| 3D model cleanup | 3D Modeling | Assigned human QA / lead |
+| 3D model cleanup | Figuro 3D Modeling | Assigned human QA / lead |
 | SEO audit across products | SEO / AEO | Product-specific marketing and dev leads |
 | New partnership prospects | Lead Generation | Relevant marketing team lead |
-| Customer order inquiry | Customer Support Operations | Figuro Dev or 3D Modeling if needed |
+| Customer order inquiry | Customer Support Operations | Figuro Dev or Figuro 3D Modeling if needed |
 | Daily Chief briefing | Executive Assistant | All team leads |
 
 ## Team note template
